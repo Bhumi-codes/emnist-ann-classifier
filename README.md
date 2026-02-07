@@ -47,7 +47,7 @@ General structure:
 
 ## 📊 Results
 
-* Train and Test Accuracy : **~86%** and **~83%** respectively.
+* Train and Cross Validation Accuracy : **~86%** and **~83%** respectively.
 * Test Accuracy: **~83%**
 
 The model achieves good performance without any issue of underfitting or overfitting
