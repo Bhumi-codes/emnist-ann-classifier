@@ -1,6 +1,6 @@
 # EMNIST Character Classification using Artificial Neural Networks (ANN)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bhumi-codes/emnist-ann-classifier/blob/main/EMNIST.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bhumi-codes/emnist-ann-classifier/blob/main/EMNIST (1).ipynb)
 
 ## 📌 Project Overview
 
